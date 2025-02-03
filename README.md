@@ -1,2 +1,7 @@
 # hello-world
-my first GitHub repository 
+## **Course**: ESS 330
+## **Name**: Ainsley Denham
+## **Year**: 2
+## **Major**: ESS
+## **OS**: Windows 
+
